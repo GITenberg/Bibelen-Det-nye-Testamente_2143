@@ -1,6 +1,11 @@
 _repo: Bibelen-Det-nye-Testamente_2143
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2143#Bibelen-Det-nye-Testamente
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2000-04-01'
 gutenberg_type: Text
